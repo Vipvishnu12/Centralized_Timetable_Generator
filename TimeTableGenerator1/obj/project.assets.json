@@ -5234,11 +5234,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vishn\\source\\repos\\TimeTableGenerator1\\TimeTableGenerator1\\Timetablegenerator.csproj",
+      "projectUniqueName": "C:\\Users\\vishn\\OneDrive\\Pictures\\Documents\\timetable\\TimeTableGenerator1\\Timetablegenerator.csproj",
       "projectName": "Timetablegenerator",
-      "projectPath": "C:\\Users\\vishn\\source\\repos\\TimeTableGenerator1\\TimeTableGenerator1\\Timetablegenerator.csproj",
+      "projectPath": "C:\\Users\\vishn\\OneDrive\\Pictures\\Documents\\timetable\\TimeTableGenerator1\\Timetablegenerator.csproj",
       "packagesPath": "C:\\Users\\vishn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vishn\\source\\repos\\TimeTableGenerator1\\TimeTableGenerator1\\obj\\",
+      "outputPath": "C:\\Users\\vishn\\OneDrive\\Pictures\\Documents\\timetable\\TimeTableGenerator1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
