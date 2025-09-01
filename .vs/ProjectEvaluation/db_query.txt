@@ -1,0 +1,98 @@
+CREATE TABLE labdata (
+    lab_id VARCHAR(50) PRIMARY KEY,
+    lab_name VARCHAR(100) NOT NULL,
+    lab_capacity INT,
+    departmentid VARCHAR(50),
+    block VARCHAR(255)
+);
+CREATE TABLE labtimetable (
+    id INT PRIMARY KEY,
+    lab_id VARCHAR(100),
+    subject_code VARCHAR(200),
+    subject_name VARCHAR(100),
+    staff_name VARCHAR(100),
+    staff_code VARCHAR(100),  -- Assuming max 100 chars
+    department VARCHAR(50),
+    year VARCHAR(50),
+    semester VARCHAR(5),
+    section VARCHAR(10),
+    day VARCHAR(50),
+    hour INT
+);
+CREATE TABLE login (
+    username VARCHAR(20) PRIMARY KEY,
+    password VARCHAR(100),
+    role VARCHAR(20)
+);
+
+CREATE TABLE pendingtimetabledata (
+    id INT PRIMARY KEY,
+    staff_id VARCHAR(50),
+    staffname VARCHAR(100),
+    subject_id VARCHAR(50),
+    lab_id VARCHAR(50),
+    staff_department VARCHAR(50),
+    subject_shrt VARCHAR(50),
+    credit INT,
+    subtype VARCHAR(50),
+    department VARCHAR(50),
+    year VARCHAR(100),
+    sem VARCHAR(100),
+    lab_department VARCHAR(50),
+    section VARCHAR(10),
+    status VARCHAR(255)
+);
+
+CREATE TABLE staff_data (
+    staffid VARCHAR(20) PRIMARY KEY,
+    staffname VARCHAR(100),
+    prefsub1 VARCHAR(20),
+    prefsub2 VARCHAR(20),
+    prefsub3 VARCHAR(20),
+    departmentid VARCHAR(20),
+    block VARCHAR(100)
+);
+
+CREATE TABLE subject_data (
+    subject_code VARCHAR(20) PRIMARY KEY,
+    subject_shortform VARCHAR(20),
+    subject_name VARCHAR(100),
+    credit INT,
+    year VARCHAR(50),
+    sem VARCHAR(20),
+    subject_type VARCHAR(20),
+    department_id VARCHAR(20)
+);
+
+
+
+
+
+
+
+CREATE TABLE public.classtimetable (
+    id                SERIAL PRIMARY KEY,
+    department_id     VARCHAR(200),
+    year              VARCHAR(200),
+    semester          VARCHAR(200),
+    section           VARCHAR(10),
+    day               VARCHAR(200),
+    hour              INT,
+    subjectshortform  VARCHAR(200),
+    subject_code      VARCHAR(100),
+    subject_name      VARCHAR(100),
+    staff_name        VARCHAR(100),
+    staff_code        VARCHAR(100)
+);
+
+
+
+
+
+
+
+
+CREATE TABLE public.admin (
+    department_id   VARCHAR(20) PRIMARY KEY,
+    department_name VARCHAR(100)
+);
