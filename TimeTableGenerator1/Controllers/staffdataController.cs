@@ -150,13 +150,13 @@ namespace Timetablegenerator.Controllers
     // DTO class
     public class StaffDataDto
     {
-        public string department { get; set; }
-        public string department_id { get; set; }
-        public string block { get; set; }
-        public string staffId { get; set; }
-        public string name { get; set; }
-        public string subject1 { get; set; }
-        public string subject2 { get; set; }
-        public string subject3 { get; set; }
+        public string ?department { get; set; }                                                                                                                                                                                                                                                                                                            
+        public string? department_id { get; set; }
+        public string? block { get; set; }
+        public string? staffId { get; set; }
+        public string? name { get; set; }
+        public string? subject1 { get; set; }
+        public string? subject2 { get; set; }
+        public  string? subject3 { get; set; }
     }
 }

@@ -207,6 +207,53 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "Timetablegenerator.Controllers.EnhancedTimetableController",
+    "Method": "GenerateEnhancedTimetable",
+    "RelativePath": "api/EnhancedTimetable/generateCrossDepartmentTimetableBacktracking",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Timetablegenerator.Controllers.EnhancedTimetableController\u002BTimetableRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Timetablegenerator.Controllers.EnhancedTimetableController",
+    "Method": "GenerateCrossDepartmentTimetableFromPending",
+    "RelativePath": "api/EnhancedTimetable/generateCrossDepartmentTimetableFromPending",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "department",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "year",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "semester",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "section",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "YourNamespace.Controllers.LabController",
     "Method": "GetAllLabs",
     "RelativePath": "api/Lab/all",
@@ -639,22 +686,6 @@
       {
         "Name": "departmentId",
         "Type": "System.String",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "Timetablegenerator.Controllers.TimetableController",
-    "Method": "GenerateCrossDepartmentTimetableBacktracking",
-    "RelativePath": "api/Timetable/generateCrossDepartmentTimetableBacktracking",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "request",
-        "Type": "Timetablegenerator.Controllers.TimetableController\u002BTimetableRequest",
         "IsRequired": true
       }
     ],

@@ -254,7 +254,7 @@ namespace YourNamespace.Controllers
 
                 var count = Convert.ToInt32(await countCmd.ExecuteScalarAsync());
 
-                return Ok(new { pendingLabRequestsCount = count });
+                return Ok(new { pendingLabRequestsCount = count });                                         
             }
             catch (Exception ex)
             {

@@ -3,36 +3,80 @@
   "WorkspaceRootPath": "C:\\Users\\vishn\\OneDrive\\Pictures\\Documents\\timetable\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0A297CA7-E9A5-4D0E-9F83-CD01FB4A8196}|TimeTableGenerator1\\Timetablegenerator.csproj|c:\\users\\vishn\\onedrive\\pictures\\documents\\timetable\\timetablegenerator1\\efcoresetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A297CA7-E9A5-4D0E-9F83-CD01FB4A8196}|TimeTableGenerator1\\Timetablegenerator.csproj|solutionrelative:timetablegenerator1\\efcoresetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A297CA7-E9A5-4D0E-9F83-CD01FB4A8196}|TimeTableGenerator1\\Timetablegenerator.csproj|c:\\users\\vishn\\onedrive\\pictures\\documents\\timetable\\timetablegenerator1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A297CA7-E9A5-4D0E-9F83-CD01FB4A8196}|TimeTableGenerator1\\Timetablegenerator.csproj|solutionrelative:timetablegenerator1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A297CA7-E9A5-4D0E-9F83-CD01FB4A8196}|TimeTableGenerator1\\Timetablegenerator.csproj|c:\\users\\vishn\\onedrive\\pictures\\documents\\timetable\\timetablegenerator1\\controllers\\timetablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A297CA7-E9A5-4D0E-9F83-CD01FB4A8196}|TimeTableGenerator1\\Timetablegenerator.csproj|solutionrelative:timetablegenerator1\\controllers\\timetablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0A297CA7-E9A5-4D0E-9F83-CD01FB4A8196}|TimeTableGenerator1\\Timetablegenerator.csproj|c:\\users\\vishn\\onedrive\\pictures\\documents\\timetable\\timetablegenerator1\\controllers\\timetablegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A297CA7-E9A5-4D0E-9F83-CD01FB4A8196}|TimeTableGenerator1\\Timetablegenerator.csproj|solutionrelative:timetablegenerator1\\controllers\\timetablegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0A297CA7-E9A5-4D0E-9F83-CD01FB4A8196}|TimeTableGenerator1\\Timetablegenerator.csproj|c:\\users\\vishn\\onedrive\\pictures\\documents\\timetable\\timetablegenerator1\\controllers\\subjectassignmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A297CA7-E9A5-4D0E-9F83-CD01FB4A8196}|TimeTableGenerator1\\Timetablegenerator.csproj|solutionrelative:timetablegenerator1\\controllers\\subjectassignmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A297CA7-E9A5-4D0E-9F83-CD01FB4A8196}|TimeTableGenerator1\\Timetablegenerator.csproj|c:\\users\\vishn\\onedrive\\pictures\\documents\\timetable\\timetablegenerator1\\controllers\\subjectdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A297CA7-E9A5-4D0E-9F83-CD01FB4A8196}|TimeTableGenerator1\\Timetablegenerator.csproj|solutionrelative:timetablegenerator1\\controllers\\subjectdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A297CA7-E9A5-4D0E-9F83-CD01FB4A8196}|TimeTableGenerator1\\Timetablegenerator.csproj|c:\\users\\vishn\\onedrive\\pictures\\documents\\timetable\\timetablegenerator1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A297CA7-E9A5-4D0E-9F83-CD01FB4A8196}|TimeTableGenerator1\\Timetablegenerator.csproj|solutionrelative:timetablegenerator1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A297CA7-E9A5-4D0E-9F83-CD01FB4A8196}|TimeTableGenerator1\\Timetablegenerator.csproj|c:\\users\\vishn\\onedrive\\pictures\\documents\\timetable\\timetablegenerator1\\controllers\\staffdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A297CA7-E9A5-4D0E-9F83-CD01FB4A8196}|TimeTableGenerator1\\Timetablegenerator.csproj|solutionrelative:timetablegenerator1\\controllers\\staffdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A297CA7-E9A5-4D0E-9F83-CD01FB4A8196}|TimeTableGenerator1\\Timetablegenerator.csproj|c:\\users\\vishn\\onedrive\\pictures\\documents\\timetable\\timetablegenerator1\\controllers\\labcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A297CA7-E9A5-4D0E-9F83-CD01FB4A8196}|TimeTableGenerator1\\Timetablegenerator.csproj|solutionrelative:timetablegenerator1\\controllers\\labcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A297CA7-E9A5-4D0E-9F83-CD01FB4A8196}|TimeTableGenerator1\\Timetablegenerator.csproj|c:\\users\\vishn\\onedrive\\pictures\\documents\\timetable\\timetablegenerator1\\controllers\\staffsubjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A297CA7-E9A5-4D0E-9F83-CD01FB4A8196}|TimeTableGenerator1\\Timetablegenerator.csproj|solutionrelative:timetablegenerator1\\controllers\\staffsubjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A297CA7-E9A5-4D0E-9F83-CD01FB4A8196}|TimeTableGenerator1\\Timetablegenerator.csproj|c:\\users\\vishn\\onedrive\\pictures\\documents\\timetable\\timetablegenerator1\\controllers\\staffrequestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A297CA7-E9A5-4D0E-9F83-CD01FB4A8196}|TimeTableGenerator1\\Timetablegenerator.csproj|solutionrelative:timetablegenerator1\\controllers\\staffrequestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0A297CA7-E9A5-4D0E-9F83-CD01FB4A8196}|TimeTableGenerator1\\Timetablegenerator.csproj|c:\\users\\vishn\\onedrive\\pictures\\documents\\timetable\\timetablegenerator1\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A297CA7-E9A5-4D0E-9F83-CD01FB4A8196}|TimeTableGenerator1\\Timetablegenerator.csproj|solutionrelative:timetablegenerator1\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A297CA7-E9A5-4D0E-9F83-CD01FB4A8196}|TimeTableGenerator1\\Timetablegenerator.csproj|c:\\users\\vishn\\onedrive\\pictures\\documents\\timetable\\timetablegenerator1\\controllers\\subjectassignmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A297CA7-E9A5-4D0E-9F83-CD01FB4A8196}|TimeTableGenerator1\\Timetablegenerator.csproj|solutionrelative:timetablegenerator1\\controllers\\subjectassignmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A297CA7-E9A5-4D0E-9F83-CD01FB4A8196}|TimeTableGenerator1\\Timetablegenerator.csproj|c:\\users\\vishn\\onedrive\\pictures\\documents\\timetable\\timetablegenerator1\\controllers\\staffrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A297CA7-E9A5-4D0E-9F83-CD01FB4A8196}|TimeTableGenerator1\\Timetablegenerator.csproj|solutionrelative:timetablegenerator1\\controllers\\staffrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A297CA7-E9A5-4D0E-9F83-CD01FB4A8196}|TimeTableGenerator1\\Timetablegenerator.csproj|c:\\users\\vishn\\onedrive\\pictures\\documents\\timetable\\timetablegenerator1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A297CA7-E9A5-4D0E-9F83-CD01FB4A8196}|TimeTableGenerator1\\Timetablegenerator.csproj|solutionrelative:timetablegenerator1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A297CA7-E9A5-4D0E-9F83-CD01FB4A8196}|TimeTableGenerator1\\Timetablegenerator.csproj|c:\\users\\vishn\\onedrive\\pictures\\documents\\timetable\\timetablegenerator1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0A297CA7-E9A5-4D0E-9F83-CD01FB4A8196}|TimeTableGenerator1\\Timetablegenerator.csproj|solutionrelative:timetablegenerator1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A297CA7-E9A5-4D0E-9F83-CD01FB4A8196}|TimeTableGenerator1\\Timetablegenerator.csproj|c:\\users\\vishn\\onedrive\\pictures\\documents\\timetable\\timetablegenerator1\\connection\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A297CA7-E9A5-4D0E-9F83-CD01FB4A8196}|TimeTableGenerator1\\Timetablegenerator.csproj|solutionrelative:timetablegenerator1\\connection\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A297CA7-E9A5-4D0E-9F83-CD01FB4A8196}|TimeTableGenerator1\\Timetablegenerator.csproj|c:\\users\\vishn\\onedrive\\pictures\\documents\\timetable\\timetablegenerator1\\efcoresetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A297CA7-E9A5-4D0E-9F83-CD01FB4A8196}|TimeTableGenerator1\\Timetablegenerator.csproj|solutionrelative:timetablegenerator1\\efcoresetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0A297CA7-E9A5-4D0E-9F83-CD01FB4A8196}|TimeTableGenerator1\\Timetablegenerator.csproj|c:\\users\\vishn\\onedrive\\pictures\\documents\\timetable\\timetablegenerator1\\enhancedtimetablesystem.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{0A297CA7-E9A5-4D0E-9F83-CD01FB4A8196}|TimeTableGenerator1\\Timetablegenerator.csproj|solutionrelative:timetablegenerator1\\enhancedtimetablesystem.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0A297CA7-E9A5-4D0E-9F83-CD01FB4A8196}|TimeTableGenerator1\\Timetablegenerator.csproj|c:\\users\\vishn\\onedrive\\pictures\\documents\\timetable\\timetablegenerator1\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A297CA7-E9A5-4D0E-9F83-CD01FB4A8196}|TimeTableGenerator1\\Timetablegenerator.csproj|solutionrelative:timetablegenerator1\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0A297CA7-E9A5-4D0E-9F83-CD01FB4A8196}|TimeTableGenerator1\\Timetablegenerator.csproj|c:\\users\\vishn\\onedrive\\pictures\\documents\\timetable\\timetablegenerator1\\timetablegenerator1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{0A297CA7-E9A5-4D0E-9F83-CD01FB4A8196}|TimeTableGenerator1\\Timetablegenerator.csproj|solutionrelative:timetablegenerator1\\timetablegenerator1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A297CA7-E9A5-4D0E-9F83-CD01FB4A8196}|TimeTableGenerator1\\Timetablegenerator.csproj|c:\\users\\vishn\\onedrive\\pictures\\documents\\timetable\\timetablegenerator1\\controllers\\timetablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A297CA7-E9A5-4D0E-9F83-CD01FB4A8196}|TimeTableGenerator1\\Timetablegenerator.csproj|solutionrelative:timetablegenerator1\\controllers\\timetablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A297CA7-E9A5-4D0E-9F83-CD01FB4A8196}|TimeTableGenerator1\\Timetablegenerator.csproj|c:\\users\\vishn\\onedrive\\pictures\\documents\\timetable\\timetablegenerator1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0A297CA7-E9A5-4D0E-9F83-CD01FB4A8196}|TimeTableGenerator1\\Timetablegenerator.csproj|solutionrelative:timetablegenerator1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +86,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,44 +110,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SubjectAssignmentsController.cs",
-              "DocumentMoniker": "C:\\Users\\vishn\\OneDrive\\Pictures\\Documents\\timetable\\TimeTableGenerator1\\Controllers\\SubjectAssignmentsController.cs",
-              "RelativeDocumentMoniker": "TimeTableGenerator1\\Controllers\\SubjectAssignmentsController.cs",
-              "ToolTip": "C:\\Users\\vishn\\OneDrive\\Pictures\\Documents\\timetable\\TimeTableGenerator1\\Controllers\\SubjectAssignmentsController.cs",
-              "RelativeToolTip": "TimeTableGenerator1\\Controllers\\SubjectAssignmentsController.cs",
-              "ViewState": "AgIAACMCAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "TimetableGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\vishn\\OneDrive\\Pictures\\Documents\\timetable\\TimeTableGenerator1\\Controllers\\TimetableGenerator.cs",
+              "RelativeDocumentMoniker": "TimeTableGenerator1\\Controllers\\TimetableGenerator.cs",
+              "ToolTip": "C:\\Users\\vishn\\OneDrive\\Pictures\\Documents\\timetable\\TimeTableGenerator1\\Controllers\\TimetableGenerator.cs",
+              "RelativeToolTip": "TimeTableGenerator1\\Controllers\\TimetableGenerator.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T13:05:21.188Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EnhancedTimetableSystem.md",
-              "DocumentMoniker": "C:\\Users\\vishn\\OneDrive\\Pictures\\Documents\\timetable\\TimeTableGenerator1\\EnhancedTimetableSystem.md",
-              "RelativeDocumentMoniker": "TimeTableGenerator1\\EnhancedTimetableSystem.md",
-              "ToolTip": "C:\\Users\\vishn\\OneDrive\\Pictures\\Documents\\timetable\\TimeTableGenerator1\\EnhancedTimetableSystem.md",
-              "RelativeToolTip": "TimeTableGenerator1\\EnhancedTimetableSystem.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-08-30T13:05:16.298Z"
+              "WhenOpened": "2025-09-22T10:17:04.25Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EfCoreSetup.cs",
-              "DocumentMoniker": "C:\\Users\\vishn\\OneDrive\\Pictures\\Documents\\timetable\\TimeTableGenerator1\\EfCoreSetup.cs",
-              "RelativeDocumentMoniker": "TimeTableGenerator1\\EfCoreSetup.cs",
-              "ToolTip": "C:\\Users\\vishn\\OneDrive\\Pictures\\Documents\\timetable\\TimeTableGenerator1\\EfCoreSetup.cs",
-              "RelativeToolTip": "TimeTableGenerator1\\EfCoreSetup.cs",
-              "ViewState": "AgIAAJ4AAAAAAAAAAAAAAMsAAAAjAAAAAAAAAA==",
+              "Title": "timetableController.cs",
+              "DocumentMoniker": "C:\\Users\\vishn\\OneDrive\\Pictures\\Documents\\timetable\\TimeTableGenerator1\\Controllers\\timetableController.cs",
+              "RelativeDocumentMoniker": "TimeTableGenerator1\\Controllers\\timetableController.cs",
+              "ToolTip": "C:\\Users\\vishn\\OneDrive\\Pictures\\Documents\\timetable\\TimeTableGenerator1\\Controllers\\timetableController.cs",
+              "RelativeToolTip": "TimeTableGenerator1\\Controllers\\timetableController.cs",
+              "ViewState": "AgIAAP03AAAAAAAAAAAQwBA4AABZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T12:54:34.624Z",
+              "WhenOpened": "2025-08-30T13:03:05.743Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\vishn\\OneDrive\\Pictures\\Documents\\timetable\\TimeTableGenerator1\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "TimeTableGenerator1\\Controllers\\WeatherForecastController.cs",
@@ -116,50 +148,194 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "SubjectdataController.cs",
+              "DocumentMoniker": "C:\\Users\\vishn\\OneDrive\\Pictures\\Documents\\timetable\\TimeTableGenerator1\\Controllers\\SubjectdataController.cs",
+              "RelativeDocumentMoniker": "TimeTableGenerator1\\Controllers\\SubjectdataController.cs",
+              "ToolTip": "C:\\Users\\vishn\\OneDrive\\Pictures\\Documents\\timetable\\TimeTableGenerator1\\Controllers\\SubjectdataController.cs",
+              "RelativeToolTip": "TimeTableGenerator1\\Controllers\\SubjectdataController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T17:45:10.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SubjectAssignmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\vishn\\OneDrive\\Pictures\\Documents\\timetable\\TimeTableGenerator1\\Controllers\\SubjectAssignmentsController.cs",
+              "RelativeDocumentMoniker": "TimeTableGenerator1\\Controllers\\SubjectAssignmentsController.cs",
+              "ToolTip": "C:\\Users\\vishn\\OneDrive\\Pictures\\Documents\\timetable\\TimeTableGenerator1\\Controllers\\SubjectAssignmentsController.cs",
+              "RelativeToolTip": "TimeTableGenerator1\\Controllers\\SubjectAssignmentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMCAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T13:05:21.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "staffdataController.cs",
+              "DocumentMoniker": "C:\\Users\\vishn\\OneDrive\\Pictures\\Documents\\timetable\\TimeTableGenerator1\\Controllers\\staffdataController.cs",
+              "RelativeDocumentMoniker": "TimeTableGenerator1\\Controllers\\staffdataController.cs",
+              "ToolTip": "C:\\Users\\vishn\\OneDrive\\Pictures\\Documents\\timetable\\TimeTableGenerator1\\Controllers\\staffdataController.cs",
+              "RelativeToolTip": "TimeTableGenerator1\\Controllers\\staffdataController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T17:46:19.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LabController.cs",
+              "DocumentMoniker": "C:\\Users\\vishn\\OneDrive\\Pictures\\Documents\\timetable\\TimeTableGenerator1\\Controllers\\LabController.cs",
+              "RelativeDocumentMoniker": "TimeTableGenerator1\\Controllers\\LabController.cs",
+              "ToolTip": "C:\\Users\\vishn\\OneDrive\\Pictures\\Documents\\timetable\\TimeTableGenerator1\\Controllers\\LabController.cs",
+              "RelativeToolTip": "TimeTableGenerator1\\Controllers\\LabController.cs",
+              "ViewState": "AgIAAOYAAAAAAAAAAAD4vwABAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T17:57:21.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StaffSubjectController.cs",
+              "DocumentMoniker": "C:\\Users\\vishn\\OneDrive\\Pictures\\Documents\\timetable\\TimeTableGenerator1\\Controllers\\StaffSubjectController.cs",
+              "RelativeDocumentMoniker": "TimeTableGenerator1\\Controllers\\StaffSubjectController.cs",
+              "ToolTip": "C:\\Users\\vishn\\OneDrive\\Pictures\\Documents\\timetable\\TimeTableGenerator1\\Controllers\\StaffSubjectController.cs",
+              "RelativeToolTip": "TimeTableGenerator1\\Controllers\\StaffSubjectController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T09:10:50.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StaffRequestData.cs",
+              "DocumentMoniker": "C:\\Users\\vishn\\OneDrive\\Pictures\\Documents\\timetable\\TimeTableGenerator1\\Controllers\\StaffRequestData.cs",
+              "RelativeDocumentMoniker": "TimeTableGenerator1\\Controllers\\StaffRequestData.cs",
+              "ToolTip": "C:\\Users\\vishn\\OneDrive\\Pictures\\Documents\\timetable\\TimeTableGenerator1\\Controllers\\StaffRequestData.cs",
+              "RelativeToolTip": "TimeTableGenerator1\\Controllers\\StaffRequestData.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAwwLoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T17:51:49.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "LoginController.cs",
               "DocumentMoniker": "C:\\Users\\vishn\\OneDrive\\Pictures\\Documents\\timetable\\TimeTableGenerator1\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "TimeTableGenerator1\\Controllers\\LoginController.cs",
               "ToolTip": "C:\\Users\\vishn\\OneDrive\\Pictures\\Documents\\timetable\\TimeTableGenerator1\\Controllers\\LoginController.cs",
               "RelativeToolTip": "TimeTableGenerator1\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-30T12:41:32.73Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TimetableGenerator.cs",
-              "DocumentMoniker": "C:\\Users\\vishn\\OneDrive\\Pictures\\Documents\\timetable\\TimeTableGenerator1\\Controllers\\TimetableGenerator.cs",
-              "RelativeDocumentMoniker": "TimeTableGenerator1\\Controllers\\TimetableGenerator.cs",
-              "ToolTip": "C:\\Users\\vishn\\OneDrive\\Pictures\\Documents\\timetable\\TimeTableGenerator1\\Controllers\\TimetableGenerator.cs",
-              "RelativeToolTip": "TimeTableGenerator1\\Controllers\\TimetableGenerator.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAcwDgAAAApAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "StaffRequest.cs",
+              "DocumentMoniker": "C:\\Users\\vishn\\OneDrive\\Pictures\\Documents\\timetable\\TimeTableGenerator1\\Controllers\\StaffRequest.cs",
+              "RelativeDocumentMoniker": "TimeTableGenerator1\\Controllers\\StaffRequest.cs",
+              "ToolTip": "C:\\Users\\vishn\\OneDrive\\Pictures\\Documents\\timetable\\TimeTableGenerator1\\Controllers\\StaffRequest.cs",
+              "RelativeToolTip": "TimeTableGenerator1\\Controllers\\StaffRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T13:05:05.612Z"
+              "WhenOpened": "2025-09-02T17:52:04.349Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vishn\\OneDrive\\Pictures\\Documents\\timetable\\TimeTableGenerator1\\Program.cs",
+              "RelativeDocumentMoniker": "TimeTableGenerator1\\Program.cs",
+              "ToolTip": "C:\\Users\\vishn\\OneDrive\\Pictures\\Documents\\timetable\\TimeTableGenerator1\\Program.cs",
+              "RelativeToolTip": "TimeTableGenerator1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T17:45:13.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DatabaseConnection.cs",
+              "DocumentMoniker": "C:\\Users\\vishn\\OneDrive\\Pictures\\Documents\\timetable\\TimeTableGenerator1\\Connection\\DatabaseConnection.cs",
+              "RelativeDocumentMoniker": "TimeTableGenerator1\\Connection\\DatabaseConnection.cs",
+              "ToolTip": "C:\\Users\\vishn\\OneDrive\\Pictures\\Documents\\timetable\\TimeTableGenerator1\\Connection\\DatabaseConnection.cs",
+              "RelativeToolTip": "TimeTableGenerator1\\Connection\\DatabaseConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T17:48:17.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vishn\\OneDrive\\Pictures\\Documents\\timetable\\TimeTableGenerator1\\appsettings.json",
+              "RelativeDocumentMoniker": "TimeTableGenerator1\\appsettings.json",
+              "ToolTip": "C:\\Users\\vishn\\OneDrive\\Pictures\\Documents\\timetable\\TimeTableGenerator1\\appsettings.json",
+              "RelativeToolTip": "TimeTableGenerator1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-21T12:09:28.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EfCoreSetup.cs",
+              "DocumentMoniker": "C:\\Users\\vishn\\OneDrive\\Pictures\\Documents\\timetable\\TimeTableGenerator1\\EfCoreSetup.cs",
+              "RelativeDocumentMoniker": "TimeTableGenerator1\\EfCoreSetup.cs",
+              "ToolTip": "C:\\Users\\vishn\\OneDrive\\Pictures\\Documents\\timetable\\TimeTableGenerator1\\EfCoreSetup.cs",
+              "RelativeToolTip": "TimeTableGenerator1\\EfCoreSetup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T12:54:34.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EnhancedTimetableSystem.md",
+              "DocumentMoniker": "C:\\Users\\vishn\\OneDrive\\Pictures\\Documents\\timetable\\TimeTableGenerator1\\EnhancedTimetableSystem.md",
+              "RelativeDocumentMoniker": "TimeTableGenerator1\\EnhancedTimetableSystem.md",
+              "ToolTip": "C:\\Users\\vishn\\OneDrive\\Pictures\\Documents\\timetable\\TimeTableGenerator1\\EnhancedTimetableSystem.md",
+              "RelativeToolTip": "TimeTableGenerator1\\EnhancedTimetableSystem.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-08-30T13:05:16.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\vishn\\OneDrive\\Pictures\\Documents\\timetable\\TimeTableGenerator1\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "TimeTableGenerator1\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\vishn\\OneDrive\\Pictures\\Documents\\timetable\\TimeTableGenerator1\\WeatherForecast.cs",
+              "RelativeToolTip": "TimeTableGenerator1\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T09:48:07.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "TimeTableGenerator1.http",
               "DocumentMoniker": "C:\\Users\\vishn\\OneDrive\\Pictures\\Documents\\timetable\\TimeTableGenerator1\\TimeTableGenerator1.http",
               "RelativeDocumentMoniker": "TimeTableGenerator1\\TimeTableGenerator1.http",
               "ToolTip": "C:\\Users\\vishn\\OneDrive\\Pictures\\Documents\\timetable\\TimeTableGenerator1\\TimeTableGenerator1.http",
               "RelativeToolTip": "TimeTableGenerator1\\TimeTableGenerator1.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
               "WhenOpened": "2025-08-30T13:05:14.531Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "timetableController.cs",
-              "DocumentMoniker": "C:\\Users\\vishn\\OneDrive\\Pictures\\Documents\\timetable\\TimeTableGenerator1\\Controllers\\timetableController.cs",
-              "RelativeDocumentMoniker": "TimeTableGenerator1\\Controllers\\timetableController.cs",
-              "ToolTip": "C:\\Users\\vishn\\OneDrive\\Pictures\\Documents\\timetable\\TimeTableGenerator1\\Controllers\\timetableController.cs",
-              "RelativeToolTip": "TimeTableGenerator1\\Controllers\\timetableController.cs",
-              "ViewState": "AgIAAEMCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T13:03:05.743Z"
+              "DocumentIndex": 18,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\vishn\\OneDrive\\Pictures\\Documents\\timetable\\TimeTableGenerator1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TimeTableGenerator1\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\vishn\\OneDrive\\Pictures\\Documents\\timetable\\TimeTableGenerator1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TimeTableGenerator1\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwBQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-21T09:34:55.618Z"
             }
           ]
         }

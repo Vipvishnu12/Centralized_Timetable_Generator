@@ -16,7 +16,7 @@ namespace Timetablegenerator.Connection
 
         public NpgsqlConnection GetConnection()
         {
-            String connectionString = _configuration.GetConnectionString("DefaultConnection");
+            String connectionString = _configuration.GetConnectionString("DefaultConnection")!;
             if (string.IsNullOrEmpty(connectionString))
             {
                 throw new InvalidOperationException("Database connection String is missing in configuration");

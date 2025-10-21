@@ -117,7 +117,7 @@ namespace Timetablegenerator.Controllers
             public string SubjectId { get; set; }        // ✅ New field
             public string SubCode { get; set; }
             public string SubjectName { get; set; }
-            public string SubjectType { get; set; }
+            public string ?SubjectType { get; set; }
             public int Credit { get; set; }
         }
 

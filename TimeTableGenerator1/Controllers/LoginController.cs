@@ -34,8 +34,8 @@ namespace YourNamespace.Controllers
     ";
 
                 using var cmd = new NpgsqlCommand(query, conn);
-                cmd.Parameters.AddWithValue("@username", dto.Username.ToUpper());
-                cmd.Parameters.AddWithValue("@password", dto.Password);
+                cmd.Parameters.AddWithValue("@username", dto.Username!.ToUpper());
+                cmd.Parameters.AddWithValue("@password", dto.Password!);
 
                 using var reader = cmd.ExecuteReader();
                 if (reader.Read())
@@ -122,11 +122,11 @@ namespace YourNamespace.Controllers
 
         public class DepartmentDto
         {
-            public string DepartmentId { get; set; }
-            public string DepartmentName { get; set; }
+            public string? DepartmentId { get; set; }
+            public string ? DepartmentName { get; set; }
             //    public string Block { get; set; }
-            public string Password { get; set; }
-            public string role { get; set; }
+            public  string? Password { get; set; }
+            public string ?role { get; set; }
         }
         // ✅ Get all department IDs from admin table
         [HttpGet("departments")]
@@ -161,8 +161,8 @@ namespace YourNamespace.Controllers
     // DTOs
     public class LoginDto
     {
-        public string Username { get; set; }
-        public string Password { get; set; }
+        public string ?Username { get; set; }
+        public string ?Password { get; set; }
     }
 
 
