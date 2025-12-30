@@ -1,0 +1,17 @@
+# Node
+node_modules/
+
+# Visual Studio
+.vs/
+bin/
+obj/
+
+# User-specific
+*.user
+*.suo
+
+# Secrets
+*.key
+*.pem
+*.pub
+mygitsshfile*
