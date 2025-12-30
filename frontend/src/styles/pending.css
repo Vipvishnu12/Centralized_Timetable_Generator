@@ -1,0 +1,30 @@
+/* Add to Table.css if you want to highlight pending status */
+.subject-list td,
+.subject-list th {
+  text-align: center;
+}
+
+.wait-btn {
+  background-color: orange;
+  color: white;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.modal-buttons button {
+  padding: 8px 16px;
+  border: none;
+  background-color: #007bff;
+  color: white;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-right: 8px;
+}
+
+.modal-buttons button:last-child {
+  background-color: #dc3545;
+  margin-right: 0;
+}

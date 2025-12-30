@@ -1,0 +1,65 @@
+/* Reset and base styles */
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: 'Poppins', Arial, sans-serif;
+  background-color: #f4f7fa;
+}
+
+/* Full app layout */
+.app-container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+/* Layout below the header */
+.app-body {
+  display: flex;
+  flex: 1;
+  height: calc(100vh - 60px); /* Adjust if Header height changes */
+  overflow: hidden;
+}
+
+/* Sidebar styles */
+.sidebar {
+  height: 100%;
+  width: 250px;
+  background-color: #003366;
+  color: white;
+  padding: 40px 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 25px;
+  box-sizing: border-box;
+}
+
+.menu-item {
+  width: 100%;
+  padding: 15px 20px;
+  font-size: 18px;
+  cursor: pointer;
+  transition: background-color 0.2s ease, border-left 0.2s ease;
+  border-left: 4px solid transparent;
+}
+
+.menu-item:hover {
+  background-color: #004080;
+  border-left: 4px solid #e8e4e4;
+}
+
+.menu-item.active {
+  background-color: #004080;
+  border-left: 4px solid #e8e4e4;
+}
+
+/* Main content area */
+.main-content {
+  flex: 1;
+
+  overflow-y: auto;
+  background-color: #ffffff;
+  box-sizing: border-box;
+}

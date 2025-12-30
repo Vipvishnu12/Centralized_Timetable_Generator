@@ -1,0 +1,116 @@
+.view-table-container {
+  padding: 30px;
+  font-family: 'Poppins', sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 30px;
+}
+
+.controls {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  gap: 20px;
+  width: 100%;
+}
+
+.control-item {
+  display: flex;
+  flex-direction: row;
+  width: 200px;
+}
+
+.control-item label {
+  font-size: 14px;
+  font-weight: bold;
+  color: #003366;
+  margin-bottom: 6px;
+}
+
+.control-item select {
+  padding: 10px;
+  font-size: 14px;
+  border: 1px solid #003366;
+  border-radius: 4px;
+  width: 250px;
+  color: #003366;
+}
+
+.timetable {
+  border-collapse: collapse;
+  min-width: 700px;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.timetable th,
+.timetable td {
+  border: 1px solid #ccc;
+  padding: 10px;
+  height: 50px;
+  min-width: 80px;
+}
+
+.timetable thead {
+  background-color: #003366;
+  color: white;
+}
+
+.day-header {
+  font-weight: bold;
+  background-color: #003366;
+  color: white;
+}
+
+.button-group {
+  display: flex;
+  gap: 15px;
+  margin-top: 20px;
+}
+
+.save-btn,
+.export-btn {
+  padding: 10px 20px;
+  font-size: 16px;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  width: 150px;
+  height: 40px;
+}
+
+.save-btn {
+  background-color: #003366;
+}
+
+.export-btn {
+  background-color: #007acc;
+}
+
+.export-btn:hover {
+  background-color: #005fa3;
+}
+.export-btn{
+  background-color: #003366;
+  color: white;
+  padding: 1px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  width: 150px;
+  height: 40px;
+}
+.ViewTable-Button{
+  padding: 1px 20px;
+  font-size: 16px;
+  color: white;
+  background-color: #003366;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  width: 150px;
+  height: 40px;
+}

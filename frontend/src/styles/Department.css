@@ -1,0 +1,78 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-color: rgb(244, 243, 243);
+}
+
+.department-wrapper {
+
+  margin: 5px auto;
+  padding: 3px;
+  color: #003366;
+  font-family: Arial, sans-serif;
+}
+
+.grid-title {
+  text-align: center;
+  font-size: 24px;
+  margin-bottom: 30px;
+
+}
+
+.department-form-row {
+  display: flex;
+  gap: 10px;
+  justify-content: space-around
+}
+
+.form-item {
+  display: flex;
+  flex-direction: column;
+  min-width: 50px;
+  max-width: 250px;
+  text-align: center;
+  box-sizing: border-box;
+  align-items: flex-start;
+}
+
+.department-label {
+  font-size: 16px;
+  margin-bottom: 6px;
+  font-weight: bold;
+  color: #003366;
+}
+
+select,
+input {
+  padding: 10px;
+  border: 1px solid #003366;
+  border-radius: 5px;
+  font-size: 16px;
+  color: #003366;
+  width: 250px;
+  box-sizing: border-box;
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.grid-button {
+  padding: 10px 24px;
+  margin-top: 20px;
+  background-color: #003366;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  width: 10%;
+  cursor: pointer;
+}
+
+.grid-button:hover {
+  background-color: #004080;
+}

@@ -1,0 +1,64 @@
+.viewlab-wrapper {
+  margin: 20px auto;
+  background-color: #fff;
+  padding: 1.5rem;
+  border-radius: 8px;
+}
+
+.action-buttons {
+  display: flex;
+
+  
+  gap: 10px;
+  justify-content: center;
+}
+
+.grid-title {
+  margin-bottom: 1rem;
+  color: #1976d2;
+  font-weight: bold;
+  font-size: 20px;
+  letter-spacing: 1px;
+  border-bottom: 2px solid #1976d2;
+  padding-bottom: 0.5rem;
+  text-align: center;
+}
+
+.lab-list {
+  overflow-x: auto;
+  margin-top: 1rem;
+}
+
+.lab-list table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.lab-list th,
+.lab-list td {
+  padding: 0.75rem;
+  text-align: center;
+  border-bottom: 1px solid #ccc;
+  font-size: 14px;
+}
+
+.lab-list th {
+  background-color: #003366;
+  color: #fff;
+}
+
+.lab-list tr:hover {
+  background-color: #f2f2f2;
+}
+
+/* Responsive */
+@media screen and (max-width: 768px) {
+  .lab-list table {
+    font-size: 13px;
+  }
+
+  .lab-list th,
+  .lab-list td {
+    padding: 0.5rem;
+  }
+}

@@ -1,0 +1,52 @@
+.overall-staff-container {
+  padding: 30px;
+  font-family: 'Poppins', sans-serif;
+  color: #003366;
+}
+
+h2 {
+  margin-bottom: 20px;
+  color: #003366;
+  font-size: 24px;
+  text-align: center;
+}
+
+.status-message {
+  text-align: center;
+  font-size: 16px;
+  color: #444;
+}
+
+.error-message {
+  color: red;
+  text-align: center;
+  font-weight: bold;
+}
+
+.table-wrapper {
+  overflow-x: auto;
+}
+
+.overall-staff-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+  min-width: 1000px;
+}
+
+.overall-staff-table th,
+.overall-staff-table td {
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: center;
+  font-size: 14px;
+}
+
+.overall-staff-table thead {
+  background-color: #003366;
+  color: white;
+}
+
+.overall-staff-table tbody tr:nth-child(even) {
+  background-color: #f9f9f9;
+}

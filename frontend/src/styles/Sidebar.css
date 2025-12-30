@@ -1,0 +1,150 @@
+.sid.sidebar {
+  height: 100vh;
+  width: 250px;
+  background-color: #003366;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+  overflow-y: auto;
+  padding: 10px 10px; /* Reduced padding */
+}
+
+.sidebar-toggle {
+  display: none;
+  position: absolute;
+  top: 18px;
+  left: 18px;
+  z-index: 200;
+  background: none;
+  border: none;
+  cursor: pointer;
+  width: 36px;
+  height: 36px;
+  align-items: center;
+  justify-content: center;
+}
+
+.menu-item {
+  width: 100%;
+  margin-top: 10px; /* Reduced margin */
+  font-size: 16px;   /* Slightly smaller font */
+    display: flex;
+    justify-content: space-between;
+  box-sizing: border-box;
+  cursor: pointer;
+  transition: background-color 0.2s ease, border-left 0.2s ease;
+  border-left: 4px solid transparent;
+  padding: 6px 8px; /* Added padding for better spacing */
+}
+
+.menu-item:hover {
+  background-color: #004080;
+  border-left: 4px solid #e8e4e4;
+}
+
+.menu-item.active {
+  background-color: #004080;
+  border-left: 4px solid #e8e4e4;
+}
+
+.submenu {
+  padding-left: 16px; /* Reduced from 24px */
+  display: flex;
+  flex-direction: column;
+  gap:2px;          /* Reduced gap */
+  margin-left: 20px;
+ /* Reduced margin */
+}
+.submenu-item {
+  font-size: 14px;
+  color: #ffffff;
+  cursor: pointer;
+  border-left: 2px solid #003366;
+   margin-top: 10px;  
+  padding: 6px 8px;  /* ✅ more balanced spacing */
+  display: flex;
+  align-items: center; /* ✅ vertically centers text */
+  justify-content: space-between; /* keeps red dot on far right */
+}
+
+.submenu-item:hover {
+  background-color: #004080;
+  border-left: 4px solid #e8e4e4;
+}
+
+/* Responsive styles for mobile screens */
+@media screen and (max-width: 480px) {
+  .sidebar-toggle {
+    display: flex;
+  }
+
+  .sidebar {
+    display: none;
+    position: absolute;
+    top: 60px;
+    left: 0;
+    width: 80vw;
+    min-width: 120px;
+    max-width: 300px;
+    height: 90vh;
+    background: #003366;
+    z-index: 150;
+    box-shadow: 2px 0 8px rgba(0,0,0,0.15);
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 10px 8px; /* Reduced padding */
+    gap: 6px;          /* Reduced overall item spacing */
+    overflow-y: auto;
+    overflow-x: hidden;
+    scrollbar-width: thin;
+    scrollbar-color: #999 #003366;
+  }
+
+  .sidebar.open {
+    display: flex;
+  }
+
+  .menu-item {
+    margin-top: 4px;
+  
+    
+    font-size: 12px;
+    border-left: 3px solid transparent;
+    width: 100%;
+    text-align: center;
+    transition: background-color 0.2s, border-left 0.2s;
+    
+  }
+
+  .menu-item:hover,
+  .menu-item.active {
+    background-color: #004080;
+    border-left: 3px solid #e8e4e4;
+  }
+}
+
+
+
+.red-dot {
+  background-color: #ff4444;
+  color: white;
+  border-radius: 10px;
+  padding: 2px 6px;
+  font-size: 10px;
+  font-weight: bold;
+  margin-left: 8px;
+  min-width: 16px;
+  height: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  pointer-events: none;
+}
+
+.submenu-item.lab-received {
+  padding-right: 20px; /* prevent red dot from overlapping text */
+}

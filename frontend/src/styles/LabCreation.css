@@ -1,0 +1,111 @@
+.lab-wrapper {
+  margin-left: 20px;
+  background-color: #fff;
+  padding: 1.5rem;
+  border-radius: 8px;
+}
+
+.grid-title {
+  margin-bottom: 1rem;
+  color: #1976d2;
+  font-weight: bold;
+  font-size: 20px;
+  letter-spacing: 1px;
+  border-bottom: 2px solid #1976d2;
+  padding-bottom: 0.5rem;
+  text-align: center;
+}
+.view-button {
+  background-color: #004a8f;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+.view-button:hover {
+  background-color: #003366;
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 20px;
+}
+.lab-form-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 20px; /* horizontal spacing */
+  margin-bottom: 1.5rem;
+}
+
+/* Each form field wrapper */
+.form-item3 {
+  display: flex;
+  flex-direction: column;
+  min-width: 200px;
+  margin-bottom: 10px; /* ✅ vertical spacing between fields */
+}
+
+.lab-label {
+  font-weight: 600;
+  color: #003366;
+  margin-bottom: 0.5rem;
+  font-size: 14px;
+  letter-spacing: 0.2px;
+}
+
+input[type="text"],
+input[type="number"] {
+  padding: 0.8rem;
+  /* width: 200px; */
+  font-size: 16px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+}
+
+.button-container {
+  text-align: right;
+}
+
+.grid-button {
+  padding: 0.5rem 1.5rem;
+  background: #003366;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  margin-top: 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.grid-button:hover {
+  background-color: #00509e;
+}
+
+/* Responsive Styles */
+@media screen and (max-width: 768px) {
+  .lab-form-row {
+    flex-direction: column;
+    gap: 0; /* remove horizontal gap for stacked layout */
+  }
+
+  .form-item3 {
+    width: 100%;
+    margin-bottom: 1.2rem;
+  }
+
+  input[type="text"],
+  input[type="number"] {
+    width: 100%;
+  }
+
+  .grid-button {
+    width: 100%;
+    font-size: 16px;
+  }
+}

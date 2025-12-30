@@ -1,0 +1,112 @@
+.login-page {
+  display: flex;
+  height: 100vh;
+  font-family: 'Poppins', sans-serif;
+}
+
+.login-left {
+  flex: 1;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 40px;
+}
+
+.logo-image {
+  height: 200px;
+  width: 200px;
+  margin-bottom: 40px;
+}
+
+.login-label {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.logo-text {
+  font-size: 24px;
+  text-align: center;
+  color: #003366;
+  font-weight: 700;
+}
+.login-right {
+  flex: 1;
+  background-color: #003366;
+  display: flex;
+  justify-content: center; /* center horizontally */
+  align-items: center;     /* center vertically */
+  color: white;
+  flex-direction: column;
+}
+
+.login-form {
+  background-color: transparent;
+  padding: 40px;
+  border-radius: 8px;
+  width: 100%;
+  max-width: 350px; /* prevents form from stretching too wide */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.user-name,
+.pass-word {
+  width: 100%;
+  display: flex;
+  gap: 20px;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+.login-form label {
+  width: 100%;
+  text-align: left;
+  margin: 10px 0 5px;
+  font-size: 20px;
+  font-weight: 700;
+
+}
+
+
+.login-form input {
+  padding: 10px;
+  border: none;
+  display: flex;
+  border-radius: 4px;
+  width: 100%;
+
+  margin-bottom: 10px;
+}
+
+.options {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 13px;
+  margin-bottom: 20px;
+}
+
+.options a {
+  color: white;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.login-form button {
+  background-color: white;
+  color: #003366;
+  padding: 10px;
+  margin-top: 20px;
+  border: none;
+  font-weight: 700;
+  font-size: 18px;
+  cursor: pointer;
+  border-radius: 6px;
+  width: 60%;
+}
